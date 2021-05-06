@@ -8,5 +8,5 @@ Open any txt files and the program will output three types of files
  3) SubDictionary Distinct : Will create a file with all words that have duplicates from the opened files
 
 
-All other files 
+All other files :
  Implementing the concepts of linked list and playing around with it 
